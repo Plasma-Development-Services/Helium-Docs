@@ -1,4 +1,4 @@
-package dev.rage.helium.api
+package services.plasma.helium.api
 
 import java.util.UUID
 
